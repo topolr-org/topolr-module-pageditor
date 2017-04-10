@@ -17,7 +17,7 @@
   "topolr": {
     "basePath": "./com/topolr/"
   },
-  "author": "wangjinliang (hou80houzhu)",
+  "author": "wangjinliang (hou80houzhu)",.gitignore
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/topolr/topolr-module-pageditor/issues"
