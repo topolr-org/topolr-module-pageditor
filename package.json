@@ -1,0 +1,26 @@
+{
+  "name": "topolr-module-pageditor",
+  "version": "1.0.0",
+  "description": "to edit site pages powered by topolr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topolr/topolr-module-pageditor.git"
+  },
+  "keywords": [
+    "editor",
+    "topolr"
+  ],
+  "topolr": {
+    "basePath": "./com/topolr/"
+  },
+  "author": "wangjinliang (hou80houzhu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topolr/topolr-module-pageditor/issues"
+  },
+  "homepage": "https://github.com/topolr/topolr-module-pageditor#readme"
+}
